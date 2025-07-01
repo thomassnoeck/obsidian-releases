@@ -17589,5 +17589,12 @@
     "author": "frankthwang",
     "description": "Add a timer to text block to track task time consumption.",
     "repo": "wth461694678/text-block-timer"
+  },
+  {
+    "id": "url-formatter",
+    "name": "URL Formatter",
+    "author": "Thomas Snoeck",
+    "description": "Automatically formats specific URLs pasted into Obsidian into clean Markdown links.",
+    "repo": "thomassnoeck/url-formatter-obsidian"
   }
 ]
